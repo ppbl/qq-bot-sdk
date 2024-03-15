@@ -1,6 +1,6 @@
 {
   "name": "@ppbl/qq-bot",
-  "version": "2.9.6",
+  "version": "2.9.7",
   "description": "QQ机器人 Node.js SDK",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
