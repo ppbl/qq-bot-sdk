@@ -1,7 +1,7 @@
 {
-  "name": "qq-guild-bot",
-  "version": "2.9.4",
-  "description": "QQ频道机器人NodeSDK",
+  "name": "@ppbl/qq-bot",
+  "version": "2.9.6",
+  "description": "QQ机器人 Node.js SDK",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
@@ -93,7 +93,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tencent-connect/bot-node-sdk.git"
+    "url": "https://github.com/ppbl/qq-bot-sdk.git"
   },
   "author": "joyqwang",
   "license": "MIT",
